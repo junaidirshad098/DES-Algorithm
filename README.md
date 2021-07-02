@@ -6,8 +6,9 @@ Confusion can be achieved by the use of a complex substitution algorithm. A simp
 
 Feistal Cipher provide confusion and diffusion of message.
 
+# Above folder
 ### Source Code and Excel Sheet Avaliable with complete Explanation.
-# Please above folder
+
 
 ## DES Encryption and Decryption Explanation in Excel Sheet
 <img alt='Excel Sheet' src='Images/img3.PNG'/>
