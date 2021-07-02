@@ -5,5 +5,5 @@ In binary block ciphers, diffusion can achieved by repeatedly performing some pe
 Confusion can be achieved by the use of a complex substitution algorithm. A simple linear substitution algorithm adds little confusion.
 
 Feistal Cipher provide confusion and diffusion of message.
-<img alt='E-Learn UI Mockup' src='Images/img3.png'/>
+<img alt='E-Learn UI Mockup' src='Images/img3.PNG'/>
 
